@@ -1,0 +1,4 @@
+import OMAReductions.R_SumOfThreeCubes_isSumOfThreeCubes_iff_mod_9_R1
+
+theorem OMA.solution : OMA.R_SumOfThreeCubes_isSumOfThreeCubes_iff_mod_9_R1.H1 :=
+  SumOfThreeCubes.mod_9_of_isSumOfThreeCubes
